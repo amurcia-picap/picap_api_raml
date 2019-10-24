@@ -1,0 +1,4 @@
+/.idea
+/.idea *
+api-console-cli.log
+/build/
